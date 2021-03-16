@@ -9,6 +9,7 @@ public class Test {
             public void run() {
                 new CalculatorJFrame();
             }
+
         });
     }
 }

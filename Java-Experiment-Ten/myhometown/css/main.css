@@ -18,11 +18,12 @@
 
 .tag{
 	margin: 0px auto;
-	width: 1500px;
+	width: 1200px;
 	background-color: #D2AFA9;
+	border-radius: 10px;
 }
 .tag ul{
-	width: 1024px;
+	width:300px;
 	margin: 0px auto;
 }
 .tag li:hover{
@@ -52,11 +53,14 @@
 .mainFrame{
 
 	width: 1500px;
-	height:1500px;
+	height:2500px;
 }
 #clock{
 	position: absolute;
 	font-size:30px ;
 	right: 100px;
 	top :100px;
+}
+.nav{
+	
 }

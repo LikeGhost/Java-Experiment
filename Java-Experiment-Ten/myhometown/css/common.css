@@ -58,10 +58,20 @@ img{
 }
 
 .text{
-	margin: 30px;
+	margin: 50px;
+	background-color: #FFFFFF;
+	opacity: 0.5;
+	border-radius: 25px;
+	color: #000000;
+	padding:20px 100px ;
+	
 }
 .text div{
-	margin-bottom:20px ;
-	margin-top: 20px;
+	padding-top:20px ;
+	padding-bottom:20px ;
 	font-size: 20px;
+	line-height: 40px;
+}
+.text h3{
+	
 }
